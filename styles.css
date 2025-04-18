@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    /* margem */
+    padding: 0;
+    /* preenchimento */
+    box-sizing: border-box;
+    /* tamanho da caixa: caixa da borda */
+    font-family: "Roboto", sans-serif;
+    /* familia da fonte: Roboto, sem serifa */
+    outline: none;
+    /* contorno: nenhum */
+}
+
+body {
+    background-color: #3e765b;
+    /* cor de fundo */
+    background-image: url(./assets/fundo.png);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: #F4F4F4;
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+main {
+    width: 375px;
+    /*    largura  */
+    background: #F4F4F4;
+    /*    plano de fundo */
+    border-radius: 20px;
+    /*    raio da borda */
+    margin: 50px auto 50px;
+    /*    margem */
+    padding: 44px 24px 23px;
+    /*    preenchimento*/
+}
+
+
+label {
+    color: #777777;
+    /*cor */
+    font-weight: 400;
+    /*espessura da fonte*/
+    font-size: 14px;
+    /*tamanho da fonte*/
+}
+
+select,
+input {
+    background: #FFFFFF;
+    /*fundo*/
+    border: 1px solid #BBBBBB;
+    /*borda: sólido*/
+    border-radius: 4px;
+    /*raio da borda*/
+    height: 48px;
+    /*altura*/
+    width: 100%;
+    /*largura*/
+    margin-bottom: 24px;
+    /*margem inferior (BAIXO)*/
+    appearance: none;
+    /*aparencia: nenhuma*/
+    padding-left: 18px;
+    /*preenchimento esquerdo*/
+    font-weight: 700;
+    /*espessura da fonte*/
+    font-size: 16px;
+    /*tamanho da fonte*/
+    color: #555555;
+    /*core*/
+    cursor: pointer;
+    /*cursor: ponteiro*/
+}
+
+button {
+    background: #026312;
+    /*fundo*/
+    border-radius: 5px;
+    /*raio da borda*/
+    width: 100%;
+    /*largura*/
+    border: none;
+    /*borda: nenhuma*/
+    height: 48px;
+    /*altura*/
+    color: #FFFFFF;
+    /* cor */
+    font-weight: 700;
+    /*espessura da fonte*/
+    font-size: 18px;
+    /*tamanho da fonte*/
+    cursor: pointer;
+    /*cursor: ponteiro*/
+
+}
+
+button:hover {
+    opacity: 0.8;
+    /*opacidade*/
+}
+
+button:active {
+    opacity: 0.6;
+    /*opacidade*/
+}
+
+
+section {
+    border: 1px solid #47054d;
+    /*borda: sólido*/
+    border-radius: 20px;
+    /*raio da borda*/
+    margin-top: 36px;
+    /*margem superior (CIMA)*/
+    padding: 12px;
+    /*    preenchimento*/
+
+    display: flex;
+    /*exibição: flex*/
+    flex-direction: column;
+    /*direção-flex: coluna*/
+    align-items: center;
+    /*alinhar-itens: centro*/
+}
+
+
+.arrow-img {
+    margin: 15px 0;
+    /*margem*/
+}
+
+.currency-box {
+    display: flex;
+    /*exibição: flex*/
+    flex-direction: column;
+    /*direção-flex: coluna*/
+    align-items: center;
+    /*alinhar-itens: centro*/
+    gap: 4px;
+    /*brencha-distancia*/
+}
+
+
+.currency {
+    color: #777777;
+    /*cor*/
+    font-size: 14px;
+    /*tamanho da fonte*/
+}
+
+
+.currency-value,
+.currency-value-to-convert {
+    color: #555555;
+    /*cor*/
+    font-weight: 700;
+    /*espessura da fonte*/
+    font-size: 20px;
+    /*tamanho da fonte*/
+}

@@ -7,6 +7,9 @@ Projeto desenvolvido durante as aulas no <a href="https://rodolfomori.com.br/dev
 - Libra Esterlina (GBP)
 - Bitcoin (BTC)
 
+## 🌐 Descrição
+Aplicação que converte valores de real para diferentes moedas (dólar, euro, libra e bitcoin), com foco em praticar lógica de conversão e uso de elementos interativos com JavaScript.
+
 ## 🚀 Tecnologias Utilizadas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />

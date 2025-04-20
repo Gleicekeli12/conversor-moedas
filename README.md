@@ -38,6 +38,8 @@ Acesse o projeto no GitHub:
 
 Agora você pode converter valores em Reais para outras moedas 💸
 
+<img src="https://github.com/Gleicekeli12/conversor-moedas/blob/main/assets/conversor-moeda.PNG?raw=true" alt="conversor-avancado" width="450"/>
+
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
 <img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>

@@ -18,20 +18,20 @@ Projeto desenvolvido durante as aulas no <a href="https://rodolfomori.com.br/dev
 ## 🔗 Repositório
 
 Acesse o projeto no GitHub:  
-👉 [github.com/Gleicekeli12/conversor-moedas-avancado](https://github.com/Gleicekeli12/conversor-moedas-avancado.git)
+👉 [github.com/Gleicekeli12/conversor-moedas](https://github.com/Gleicekeli12/conversor-moedas.git)
 
 ## ⚙️ Como executar localmente
 
 1. Clone o repositório:
    
    ```bash
-   git clone https://github.com/Gleicekeli12/conversor-moedas-avancado.git
+   git clone https://github.com/Gleicekeli12/conversor-moedas.git
    ```
    
 2. Acesse a pasta do projeto:
    
    ```bash
-   cd conversor-moedas-avancado
+   cd conversor-moedas
    ```
    
 3. Abra o arquivo `index.html` no navegador.
